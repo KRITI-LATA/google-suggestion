@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list-card {
+  display: flex;
+  justify-content: space-between;
+}
+.arrow-button {
+  border: 0;
+  background: none;
+}
+.suggestion-arrow {
+  height: 20px;
+}
